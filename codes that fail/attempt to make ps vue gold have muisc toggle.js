@@ -1,5 +1,3 @@
-//hello 
-
 (function () {
 
   include('languages.js');
