@@ -618,7 +618,7 @@ if (typeof lang === 'undefined') {
     modalOverlay.visible = true; modal.visible = true; modal._open = true;
     modalCloseBtn.visible = true; modalCloseText.visible = true;
     modalControls.alpha = 1;
-    modalControls.text = 'Up/Down: Scroll  Circle: Close';
+    modalControls.text = 'Up/Down: R3 L3  Close: L2 2 times if needed';
     fadeOutBgm(400);
     // read file and display full text (with safe preview)
     previewFile(item.path, function (err, txt) {
