@@ -1,4 +1,3 @@
-// File Explorer — hardened, L2 = back, safer runtime (drop-in replacement)
 if (typeof libc_addr === 'undefined') {
   try { include('userland.js'); } catch (e) { log('userland include failed: ' + (e.message || e)); }
 }
@@ -1319,3 +1318,4 @@ if (typeof lang === 'undefined') {
   entrance();
 
 })();
+
