@@ -68,3 +68,7 @@ same as normal vue BUT with file explorer. when viewing JS to go down or up gott
 to go back from file explorer you have to use L2 ORRR the box on top under te search bar its small press it with X. and analog can be used in PayLoad Menu for fun to make the dot glow.
 
 ---
+
+# Important 
+
+i an not responsable for any ps4/ps5 that breaks after using it, folow the 
