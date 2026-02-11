@@ -71,4 +71,4 @@ to go back from file explorer you have to use L2 ORRR the box on top under te se
 
 # Important 
 
-i an not responsable for any ps4/ps5 that breaks after using it, folow the 
+i an not responsable for any ps4/ps5 that breaks after using it, follow the applying steps
